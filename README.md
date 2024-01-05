@@ -1,1 +1,1 @@
-This is a code for a machine learning model that finds the best combination of hyperparameters and the best ratio according to the given data
+code for LAI inversion using machine learning models，which including   a parameter combination analysis, a model parameter search, best model identification, and training.
